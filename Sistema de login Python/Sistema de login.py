@@ -2,7 +2,7 @@
 
 from time import sleep
 
-# Variaveis de login armazenada
+# Armazenamento de informações de login/variáveis 
 
 usuario = 0
 usuario2 = 0
